@@ -1,0 +1,17 @@
+{
+  "watch": [
+    "app.js",
+    "index.js",
+    "packages"
+  ],
+  "ignore": [
+    "**/public/assets/**",
+    "**/quelora-storage/**",
+    "**/*.png",
+    "**/*.jpg",
+    "**/*.jpeg",
+    "**/*.webp",
+    "**/*.gif"
+  ],
+  "ext": "js,json"
+}

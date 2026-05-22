@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env
+.env
+.env.*
+
+
+# Ignorar archivos de assets subidos
+/public/assets/*
+!/public/assets/.gitkeep
